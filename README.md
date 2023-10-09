@@ -38,7 +38,7 @@ https://i.mjh.nz/PlutoTV/all.xml.gz (plutotv)
 
 -[kodi](https://kodi.tv/), supports epg, kinda complicated to setup, and to navigate, supports epg, windows, android
 
--[ip-tv player by BorPas-Soft](https://borpas.info/iptvplayer) in Russian, supports epg, windows only, freeware
+-[ip-tv player by BorPas-Soft](https://borpas.info/iptvplayer) supports epg, windows only, freeware
 
 
 ### My other projects:
