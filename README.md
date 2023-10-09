@@ -16,7 +16,7 @@ You can open sqlite file with [sqlitestudio](https://github.com/pawelsalawa/sqli
 
 You can use sql to filter results:
 ```
-select * from items where db_channel like '%ko%' --and  (db_start like'2023100720%' or db_start like '2023100720%')
+select * from items where db_channel like '%mov%' --and  (db_start like'2023100720%' or db_start like '2023100720%')
 order by 2,4
 ```
 or to show channel_id and display_name:
