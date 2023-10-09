@@ -26,14 +26,19 @@ select distinct db_channel,db_channel_original,db_display_name from items order 
 Epg xml addresses:
 
 https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml.gz (balkan channels)
+
 http://cdn.iptvhr.net/tvdata/guide.xml (balkan channels)
+
 https://i.mjh.nz/PlutoTV/all.xml.gz (plutotv)
+
 more info [here](https://github.com/iptv-org/epg)
 
 
 
 My other projects:
+
 https://github.com/dbojan/free-iptv-balkan-plus (some free iptv channels)
+
 https://github.com/dbojan/csvEdit_Esmeralda (m3u/tsv/csv editor)
 
 
