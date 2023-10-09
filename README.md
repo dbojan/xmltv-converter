@@ -11,9 +11,10 @@ Unzip it somewhere.
 ## Usage:
 drag and drop unzipped xml to 'xmltv-converter_drop_xml_file_here.bat'
 
-You can open sqlite file with [Sqlite Studio](https://github.com/pawelsalawa/sqlitestudio)
+You can open sqlite file with [SqliteStudio](https://github.com/pawelsalawa/sqlitestudio)
 
 You can use sql to filter results:
+( Open .db in SqliteStudio, click on 'Open Sql Editor' icon in toolbar, or press alt+e )
 ```
 select * from items where db_channel like '%mov%' --and  (db_start like'2023100720%' or db_start like '2023100720%')
 order by 2,4
