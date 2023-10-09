@@ -23,7 +23,9 @@ or to show channel_id and display_name:
 select distinct db_channel,db_channel_original,db_display_name from items order by 1
 ```
 
-Epg xml addresses:
+### More info on EPG [here](https://github.com/iptv-org/epg)
+
+Some epg xml tv sources:
 
 https://tvprofil.net/xmltv/data/epg_tvprofil.net.xml.gz (balkan channels)
 
@@ -31,11 +33,11 @@ http://cdn.iptvhr.net/tvdata/guide.xml (balkan channels)
 
 https://i.mjh.nz/PlutoTV/all.xml.gz (plutotv)
 
-more info [here](https://github.com/iptv-org/epg)
 
 
 
-My other projects:
+
+### My other projects:
 
 https://github.com/dbojan/free-iptv-balkan-plus (some free iptv channels)
 
