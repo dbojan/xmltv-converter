@@ -1,10 +1,9 @@
 # xmltv-converter
 Convert XML TV EPG to another format like sqlite
-<code> <pre> 
 
-### 2023-10-09-1
+### version 2023-10-09-1
 
-## Downloand: 
+## Download: 
 Right click [here](https://raw.githubusercontent.com/dbojan/xmltv-converter/main/xmltv-converter.zip), select 'Save Link As' to save zip file.
 Unzip it somewhere.
 
@@ -12,7 +11,7 @@ Unzip it somewhere.
 ## Usage:
 drag and drop unzipped xml to 'xmltv-converter_drop_xml_file_here.bat'
 
-You can open sqlite file with [sqlitestudio](https://github.com/pawelsalawa/sqlitestudio)
+You can open sqlite file with [Sqlite Studio](https://github.com/pawelsalawa/sqlitestudio)
 
 You can use sql to filter results:
 ```
