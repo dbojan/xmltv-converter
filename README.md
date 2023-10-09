@@ -1,3 +1,4 @@
+
 # xmltv-converter
 Convert XML TV EPG to another format like sqlite
 
@@ -24,6 +25,8 @@ or to show channel_id and display_name:
 ```
 select distinct db_channel,db_channel_original,db_display_name from items order by 1
 ```
+
+You can also change the way channels are displayed by setting variable in .py file.
 
 ### More info on EPG [here](https://github.com/iptv-org/epg)
 
