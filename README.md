@@ -34,7 +34,11 @@ http://cdn.iptvhr.net/tvdata/guide.xml (balkan channels)
 https://i.mjh.nz/PlutoTV/all.xml.gz (plutotv)
 
 
+### Apps that support epg tv xml:
 
+-[kodi](https://kodi.tv/), supports epg, kinda complicated to setup, and to navigate, supports epg, windows, android
+
+-[ip-tv player by BorPas-Soft](https://borpas.info/iptvplayer) in Russian, supports epg, windows only, freeware
 
 
 ### My other projects:
